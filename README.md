@@ -8,7 +8,7 @@ Author: Umid Rzayev
 
 Added this section  for practicing branching in git
 
-Bu test pull və fetch üçün əlavə edildi.
+This was added for testing pull and fetch.
 This line was modified in the feature-1 and feature-2 branches
 
 
