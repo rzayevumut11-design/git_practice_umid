@@ -8,4 +8,12 @@ Author: Umid Rzayev
 
 Added this section  for practicing branching in git
 
+<<<<<<< HEAD
 Bu test pull və fetch üçün əlavə edildi.
+=======
+This line was modified in the feature-1 and feature-2 branches
+
+>>>>>>> feature-2
+
+
+
