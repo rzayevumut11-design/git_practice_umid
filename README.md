@@ -8,3 +8,4 @@ Author: Umid Rzayev
 
 Added this section  for practicing branching in git
 
+Bu test pull və fetch üçün əlavə edildi.
